@@ -1,17 +1,7 @@
 # Felipe de Moura   📼 
 
-Olá! 👋 Sou o Felipe de Moura. Desenvolvedor e amante da tecnologia.
+![Screenshot 2023-08-31 194153](https://github.com/sh9bba/sh9bba/assets/141193377/749e26e2-2251-4575-9206-35c1b3173ff2)
 
-## Sobre Mim  👨‍💻
-
-Sou um entusiasta da programação e estou constantemente explorando novas tecnologias. 
-
-## Interesses 🎨
-
-- Desenvolvimento Web e Mobile
-- Inteligência Artificial
-- Ciência de Dados
-- Aprendizado de Máquina
 
 ## Contato 📞
 
