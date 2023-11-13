@@ -1,8 +1,4 @@
 # Felipe de Moura   📼 
-
-![Screenshot 2023-08-31 194153](https://github.com/sh9bba/sh9bba/assets/141193377/749e26e2-2251-4575-9206-35c1b3173ff2)
-
-
 ## Contato 📞
 
 - LinkedIn: [Felipe de Moura](https://linkedin.com/in/felipe-de-moura-b74a31286)
