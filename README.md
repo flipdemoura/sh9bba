@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 <div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##ed7aff&height=150&section=header"/></div>
 
-###### <div align="center">"Education is the passport to the future, for tomorrow belongs to those who prepare for it today." - Malcolm X </div>
+###### <div align="center">"Everybody should learn to program a computer because it teaches you how to think." – Steve Jobs </div>
 
+<div align="center">
+  <img align="center" alt="Cat-Standing-On-Code-Watching-A-Simulated-Rainfall-To-The-Side" height="300" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e472ax7zn26dukoy4k6urqta4o63p7afajpe4vyvebx&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+</div>
 
 
 ## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Felipe.;I'm+a+Front-End+Developer.;I+am+26+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
