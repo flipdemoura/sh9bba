@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😎</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Felipe.;I'm+a+Front-End+Developer.;I+am+26+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
+## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😃</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed7aff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Felipe.;I'm+a+Front-End+Developer.;I+am+26+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
 
 <div align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.ts-3178C6?style=flat&logo=tsnode&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=rgb(0%2C0%2C0)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=rgb(255%2C255%2C255)"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=rgb(255%2C255%2C255)"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=rgb(255%2C255%2C255)"/>
@@ -58,8 +56,8 @@ Here are some ideas to get you started:
 
 <div align="center"><br>
   <a href="https://github.com/sh9bba">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ikaro460&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&count_private=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaro460&layout=compact&langs_count=7&hide_title=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sh9bba&show_icons=true&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh9bba&layout=compact&langs_count=7&hide_title=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 </div>
 
 
