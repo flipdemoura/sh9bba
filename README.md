@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 <div align="center"><br>
   <a href="https://github.com/sh9bba">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sh9bba&show_icons=true&bg_color=00000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh9bba&layout=compact&langs_count=7&hide_title=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sh9bba&show_icons=true&bg_color=00000000&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh9bba&layout=compact&langs_count=7&hide_title=true&text_color=fff&icon_color=fff&bg_color=00000000&theme=graywhite"/>
 </div>
 
 
