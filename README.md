@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ikaro460&theme=darkhub&margin-w=15" alt="sh9bba" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sh9bba&theme=darkhub&margin-w=15" alt="sh9bba" />
   </a>
 </div>
 
