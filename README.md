@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=150&section=header"/></div>
+<div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=150&section=header"/></div>
 
 ###### <div align="center">"Everybody should learn to program a computer because it teaches you how to think." – Steve Jobs </div>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😃</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Felipe.;I'm+a+Front-End+Developer.;I+am+26+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
+## <div align="center" style="align-items: center; justify-content: center"><p style="text-align: center">👋😃</p>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00000&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Felipe.;I'm+a+Front-End+Developer.;I+am+26+years+old,+and+I'm+from+Brazil,+RJ.)](https://git.io/typing-svg)
 
 <div align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
