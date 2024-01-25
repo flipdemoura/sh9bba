@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sh9bba&theme=darkhub&margin-w=15" alt="sh9bba" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sh9bba&theme=darkhub&margin-w=15" alt="flipdemoura" />
   </a>
 </div>
 
@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center"><br>
-  <a href="https://github.com/sh9bba">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sh9bba&show_icons=true&bg_color=00000000&text_color=fff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh9bba&layout=compact&langs_count=7&hide_title=true&text_color=fff&icon_color=fff&bg_color=00000000&theme=graywhite"/>
+  <a href="https://github.com/flipdemoura">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=flipdemoura&show_icons=true&bg_color=00000000&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipdemoura&layout=compact&langs_count=7&hide_title=true&text_color=fff&icon_color=fff&bg_color=00000000&theme=graywhite"/>
 </div>
 
 
