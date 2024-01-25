@@ -60,5 +60,10 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipdemoura&layout=compact&langs_count=7&hide_title=true&text_color=fff&icon_color=fff&bg_color=00000000&theme=graywhite"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flipdemoura/flipdemoura/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flipdemoura/flipdemoura/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flipdemoura/flipdemoura/output/github-contribution-grid-snake.svg">
+</picture>
 
 
