@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=150&section=header"/></div>
+<div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##ed7aff&height=150&section=header"/></div>
 
 ###### <div align="center">"Everybody should learn to program a computer because it teaches you how to think." – Steve Jobs </div>
 
